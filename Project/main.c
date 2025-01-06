@@ -13,8 +13,11 @@
 #include "src/teacherAccounts.c"
 #include "src/teacherManagement.c"
 #include "src/classroomManagement.c"
-
-
+/*
+tai khoan admin :
+tk : admin
+mk : admin
+*/
 int main()
 {
     adminAccount adminAccounts[100];
